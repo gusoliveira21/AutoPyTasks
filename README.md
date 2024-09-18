@@ -28,18 +28,4 @@ Este repositório contém diversos scripts Python desenvolvidos para automação
 - **request.py**: Realiza requisições HTTP.
 - **separa_por_tamanho.py**: Separa arquivos em pastas com base no tamanho.
 - **zip_directory.py**: Compacta pastas em arquivos zip.
-
-### Como utilizar
-
-1. Clone o repositório para a sua máquina local.
-2. Cada script é independente e pode ser executado individualmente. Para executá-los, basta rodar o comando:
-
-    ```bash
-    python nome_do_script.py
-    ```
-
-3. Alguns scripts podem requerer bibliotecas adicionais, as quais podem ser instaladas utilizando o `pip`:
-
-    ```bash
-    pip install -r requirements.txt
     ```
