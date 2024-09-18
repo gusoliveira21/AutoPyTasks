@@ -28,4 +28,3 @@ Este repositório contém diversos scripts Python desenvolvidos para automação
 - **request.py**: Realiza requisições HTTP.
 - **separa_por_tamanho.py**: Separa arquivos em pastas com base no tamanho.
 - **zip_directory.py**: Compacta pastas em arquivos zip.
-    ```
